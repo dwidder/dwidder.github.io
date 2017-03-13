@@ -9,4 +9,3 @@ I am a student in the Clark D. Honors College at the University of Oregon in Eug
 
 I sometimes do cool things like write papers and submit them to conferences.
 
-<html> {% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}</html>
