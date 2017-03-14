@@ -4,12 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-Some information about you!
+Feel free to contact me with questions, ideas, job offers, or research ideas!
 
-### More Information
+Email: [dwidder@uoregon.edu](mailto:dwidder@uoregon.edu)
 
-A place to include any other types of information that you'd like to include about yourself.
+Call or text: [(541) 870-5750](tel:541-870-5750)
 
-### Contact me
-
-[dwidder@uoregon.edu](mailto:email@domain.com)
+Snail mail: [email me for my address.](mailto:dwidder@uoregon.edu)

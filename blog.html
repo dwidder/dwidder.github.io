@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: page
+title: Blog
+url: /blog
 ---
-
+<p>Here you will find my thoughts and opinions on research, politics, travel, art, and other sundry topics.</p>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <h4> {{ post.date | date_to_long_string }} </h4>
       <div class="entry">
         {{ post.excerpt }}

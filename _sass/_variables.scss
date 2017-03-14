@@ -4,9 +4,10 @@
 //
 
 // Colors
-// $blue: #4183C4;
+$blue: #4183C4;
 $red: rgb(255,081,035);
 $highlight: rgba(255,081,035,.5);
+// $hover: #000;
 
 // Grays
 $black: #000;
@@ -24,7 +25,7 @@ $georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 800px) {
     @content;
   }
 }
