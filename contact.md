@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Feel free to contact me with questions, ideas, job offers, or research ideas!
+Feel free to contact me with questions, research ideas, job offers, or jokes!
 
 Email: [dwidder@uoregon.edu](mailto:dwidder@uoregon.edu)
 
