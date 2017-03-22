@@ -21,5 +21,5 @@ Why did I sign up to do this for another year? Because of how much such challeng
 One of the criteria on which I evaluate potential jobs is the potential for my personal growth. On this criterion, my role as a Resident Assistant has thus far been unsurpassed. 
 
 ![Kind notes from my residents](/images/thanks-david.jpg)
-*Kind notes from my wonderful residents in a thank you card, which currently resides on my wall*
+*Kind notes from my wonderful residents, which currently resides on my wall*
 
