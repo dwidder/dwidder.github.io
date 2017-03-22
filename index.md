@@ -9,6 +9,13 @@ I do research at the intersection of Software Engineering and Human Computer Int
 
 I am always excited to meet new people and hear about new ideas and opportunities. Feel free to [reach out!](/contact)
 
+<div class="twitter-container">
+  <a class="twitter-timeline"
+    href="https://twitter.com/davidthewid">
+  Tweets by @davidthewid
+  </a>
+</div>
+
 <script>window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
     t = window.twttr || {};
@@ -25,8 +32,3 @@ I am always excited to meet new people and hear about new ideas and opportunitie
 
   return t;
 }(document, "script", "twitter-wjs"));</script>
-
-<a class="twitter-timeline"
-  href="https://twitter.com/davidthewid">
-Tweets by @{screen_name}
-</a>
