@@ -124,8 +124,13 @@ img {
 .date {
   font-style: italic;
   color: $gray;
-  // margin-right: .7em;
-  // float: left;
+  margin-right: .7em;
+  float: left;
+}
+
+.post > .date {
+  margin-right: 0px;
+  float: none;
 }
 
 // Specify the color of the selection
