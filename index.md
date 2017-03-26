@@ -9,11 +9,27 @@ I do [research](/research) at the intersection of Software Engineering and Human
 
 I am always excited to meet new people and hear about new ideas and opportunities. Feel free to [reach out!](/contact)
 
-<div class="twitter-container">
-  <a class="twitter-timeline"
-    href="https://twitter.com/DavidTheWid">
-  Tweets by @DavidTheWid
-  </a>
+<div class="feeds clearfix">
+  <div class="feed-containers">
+    {% for post in site.posts limit:1 %}
+      <article class="post">
+
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+
+        <div class="entry">
+          <div class="date"> {{ post.date | date_to_long_string }}</div>
+          {{ post.excerpt }}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endfor %}
+  </div><div class="feed-containers">
+    <a class="twitter-timeline"
+      href="https://twitter.com/DavidTheWid">
+    Tweets by @DavidTheWid
+    </a>
+  </div>  
 </div>
 
 <script>window.twttr = (function(d, s, id) {

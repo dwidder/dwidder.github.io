@@ -6,7 +6,7 @@ categories: reflection resident-assistant growth
 
 It’s 8:45pm on a Friday night, three weeks before the end of Fall term of my sophomore year at UO. I am trying to write the first draft of an essay due Monday, when the phone rings, that horrible harsh metallic ring that I am not allowed to change. I shiver — how I hate that sound — nothing good comes from this ring. I compose myself and answer: “RA on call, this is David, how can I help?”. <!--more--> My colleague informs me that while parking her car outside, she saw a resident downing multiple shots alone in her room with the lights on. At first I wonder how a resident could be so stupid — this is clearly against the rules, does she want to get caught? Then I pause and think: who does shots alone at 8:45pm with their lights on? My mindset fades from "enforcement mode" to "support mode": I hope I can help this person. I thank my colleague, hang up, and call my duty partner for the night and arrange to meet outside the resident’s room. I put on a coat and my badge, leave, hoping for the best.
 
-![My RA Badge](/images/badge.jpg)2
+![My RA Badge](/images/badge.jpg)
 *My RA Badge*
 
 We made sure she was OK in the immediate future, talked to her about some of the stress she was having during her first term of college, and offered her some support services on campus. As per protocol, we still had to collect her student identification and log the interaction, but knew that any follow up to this conversation would be more supportive than punitive.
