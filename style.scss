@@ -335,23 +335,26 @@ img + em {
   display: block;
 }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: $darkGray;
-    background-image: linear-gradient(to right, $gray, $darkGray, $gray);
+.feeds {
+  border-top: 1px solid $lightGray;
 }
 
 .feed-containers {
   width: 50%;
   display: inline-block;
   float: left;
+
+  text-align: justify;
   @include mobile {
     display: block;
     width: 100%;
     border-bottom: 1px solid $lightGray;
   }
 
+}
+
+.feed-containers:first-child {
+  padding-right: 1em;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
