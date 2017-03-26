@@ -339,12 +339,12 @@ img + em {
   border-top: 1px solid $lightGray;
 }
 
-.feed-containers {
+.feed-container {
   width: 50%;
   display: inline-block;
   float: left;
 
-  text-align: justify;
+
   @include mobile {
     display: block;
     width: 100%;
@@ -353,7 +353,11 @@ img + em {
 
 }
 
-.feed-containers:first-child {
+.feed-container .entry{
+  text-align: justify;
+}
+
+.feed-container:first-child {
   padding-right: 1em;
 }
 
