@@ -349,7 +349,9 @@ hr {
   @include mobile {
     display: block;
     width: 100%;
+    border-bottom: 1px solid $lightGray;
   }
+
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
