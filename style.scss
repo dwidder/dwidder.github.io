@@ -364,6 +364,9 @@ img + em {
 
 .feed-container:first-child {
   padding-right: 1em;
+  @include mobile {
+    padding-right: 0em;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
