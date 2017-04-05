@@ -25,10 +25,11 @@ I am always excited to meet new people and hear about new ideas and opportunitie
       </article>
     {% endfor %}
   </div><div class="feed-container">
-    <a class="twitter-timeline"
+    <a class="twitter-timeline" data-height="700" href="https://twitter.com/davidthewid">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!-- <a class="twitter-timeline"
       href="https://twitter.com/DavidTheWid">
     Tweets by @DavidTheWid
-    </a>
+    </a> -->
   </div>  
 </div>
 

@@ -22,7 +22,7 @@ Why did I sign up to do this for another year? Because of how much such challeng
 
 One of the criteria on which I evaluate job opportunities is the potential for my personal growth. On this criterion, my role as a Resident Assistant has thus far been unsurpassed.
 
-What was your experience with your RA? Do you have a question for me about being an RA? Leave a comment or [contact me](/contact), I'll reply. :)
+What was your experience with your RA? Applying to be an RA? Leave a comment or [contact me](/contact), I'll reply. :)
 
 ![Kind notes from my residents](/images/thanks-david.jpg)
-*Kind notes from my wonderful residents, which currently resides on my wall*
+*Kind notes from my wonderful residents, which currently reside  on my wall*
