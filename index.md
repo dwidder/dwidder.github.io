@@ -11,7 +11,7 @@ I am always excited to meet new people and hear about new ideas and opportunitie
 
 <div class="feeds clearfix">
   <div class="feed-container">
-    {% for post in site.posts limit:1 %}
+    {% for post in site.posts limit:2 %}
       <article class="post">
 
         <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -25,7 +25,7 @@ I am always excited to meet new people and hear about new ideas and opportunitie
       </article>
     {% endfor %}
   </div><div class="feed-container">
-    <a class="twitter-timeline" href="https://twitter.com/davidthewid" data-tweet-limit="3">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/davidthewid" data-tweet-limit="2">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     <!-- <a class="twitter-timeline"
       href="https://twitter.com/DavidTheWid">
     Tweets by @DavidTheWid
