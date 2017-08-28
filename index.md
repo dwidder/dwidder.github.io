@@ -3,7 +3,9 @@ layout: page
 title: Welcome!
 ---
 
-I graduated in June of 2017 from the [Robert D. Clark Honors College](http://honors.uoregon.edu) at the University of Oregon in Eugene, Oregon where I studied Computer and Information Science. I wrote my Undergraduate Thesis on the programming practices of research programmers, and was advised by [Professor Stephen Fickas](http://ix.cs.uoregon.edu/~fickas/new_home/). I am excited to move to Pittsburgh in August 2017 to pursue a PhD in Software Engineering at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html).
+ I am a Software Engineering PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html). My office is Wean 5119.
+
+I earned my BS in June of 2017 from the [Robert D. Clark Honors College](http://honors.uoregon.edu) at the University of Oregon in Eugene, Oregon where I studied Computer and Information Science. I wrote my Undergraduate Thesis on the programming practices of scientific research programmers, and was advised by [Professor Stephen Fickas](http://ix.cs.uoregon.edu/~fickas/new_home/).
 
 I do [research](/research) at the intersection of Software Engineering and Human Computer Interaction, with an aim to improve Computer Science Education. I was born in [Tillamook, Oregon](https://en.wikipedia.org/wiki/Tillamook,_Oregon) but grew up in Berlin, Germany and Singapore. Apart from my research interests, I enjoy painting, running and rowing.
 
