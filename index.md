@@ -3,7 +3,7 @@ layout: page
 title: Welcome!
 ---
 
- I am a Software Engineering PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html). My office is Wean 5119.
+I am a Software Engineering PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html). My office is Wean 5119.
 
 I earned my BS in June of 2017 from the [Robert D. Clark Honors College](http://honors.uoregon.edu) at the University of Oregon in Eugene, Oregon where I studied Computer and Information Science. I wrote my Undergraduate Thesis on the programming practices of scientific research programmers, and was advised by [Professor Stephen Fickas](http://ix.cs.uoregon.edu/~fickas/new_home/).
 
