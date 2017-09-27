@@ -6,7 +6,7 @@ permalink: /contact/
 
 Feel free to contact me with questions, research ideas, job offers, or jokes!
 
- Office: Wean 5119.
+Office: Wean 5119.
 
 Email: [dwidder@cmu.edu](mailto:dwidder@cmu.edu)
 
@@ -22,3 +22,4 @@ Snail mail:
     Wean Hall 5216
     5000 Forbes Avenue
     Pittsburgh, PA 15213  
+    
