@@ -16,9 +16,9 @@ Skype: <a href="skype:david.widder?add">david.widder</a>
 
 Snail mail:
 
-  David Gray Widder  
-  Carnegie Mellon University  
-  The Institute for Software Research  
-  Wean Hall 5216  
-  5000 Forbes Avenue  
-  Pittsburgh, PA 15213  
+    David Gray Widder
+    Carnegie Mellon University
+    The Institute for Software Research
+    Wean Hall 5216
+    5000 Forbes Avenue
+    Pittsburgh, PA 15213  
