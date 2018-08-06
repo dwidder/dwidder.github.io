@@ -10,8 +10,22 @@ You can download my current one page resume detailing my research and other expe
 
 ### Publications
 
-#### [What are barriers to efficient ROS debugging?](/files/REU 2016 Poster Large.pdf) July 28, 2016
+#### [I’m Leaving You, Travis: A Continuous Integration Breakup Story](https://www.cs.cmu.edu/~ckaestne/pdf/msr18travis.pdf) Conference on Mining Software Repositories, May 2018
+
+*David Gray Widder, Michael Hilton, Christian Kästner, Bogdan Vasilescu*
+
+An empirical study examing factors associated with TravisCI abandonment.
+
+
+#### [Tensions between Scientific Programming and the Scientific Method](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/22906/Final_thesis_Widder.pdf?sequence=1) Defended June 2017
+
+*David Gray Widder, Supervised by Professor Stephen Fickas*
+
+Undergraduate thesis on the practices of scientific programmers.
+
+
+#### [What are barriers to efficient ROS debugging?](/files/REU 2016 Poster Large.pdf) Presented July 2016
 
 *David Gray Widder, Josh Sunshine, Claire Le Goues*
 
-Poster presenting my research conducted at CMU's [REUSE 2016](http://www.isri.cmu.edu/education/reu-se/index.html). I found directives in documentation for the [Robot Operating System](http://www.ros.org), created tasks based on these directives, and then had 12 participants complete these tasks 22 times while thinking aloud so that I could study the barriers they face while doing so.
+Poster presenting research conducted at CMU's [REUSE 2016](http://www.isri.cmu.edu/education/reu-se/index.html) on the challenges of  debugging in the [Robot Operating System](http://www.ros.org) framework. 12 participants completed 22 tasks. Preparing to submit to Transactions on Software Engineering.
