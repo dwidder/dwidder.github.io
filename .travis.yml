@@ -1,0 +1,18 @@
+language: ruby
+rvm:
+- 2.1.1
+before_install:
+- git config --global user.email "vasilescu@gmail.com"
+- git config --global user.name "Bogdan Vasilescu"
+install:
+- bundle install
+branches:
+  only:
+  - develop
+script:
+- bundle exec rake deploy
+notifications:
+  email: false
+# env:
+#  global:
+#    secure: AArTkUNcRBj0U8+NsUxVUznUy4I21J/gG/rxrhskTBv+ecTvptglY3b9S6/w5q9exGCOb1JE3s7HQusrRuZP+SqR3TeiRJqoE10/5DJapilHu7fXkR5cu7XcH81+1+OmNN4PrO56E5jbqO8cWur3s/5UV+t7jHF+9OZ+JiC3X94CQQP8Q39CmetBkBxdT5mcwbVplmxRjHwd5I2KOa7Jmm1WGJ2sBBWAEqF7io4Z4SslcMU6Eue7jYGcBu8NpR7Wu7YvEDNufy3BKg6w6hrRmA/MaGer2EQpzXH7zedisoOpnkWwmeWlae/N/TX4BmtlW9PIN7zqDvfOElTkVh4LZJBQTillUWq4Hxamj1ZpZUYxfuG3YVF1Jwp86WsfjaNGZp+oF+gsWIyFnLb9EZYdkTv5Ub6D4Jjpr0zrlb/AAmr6ANysLIGuJUMuEE0/L2Mtf4rpLjf3DQSkmV0pJiqoO6FwWadE6CnvPMnXNxGkXWuCTGt9mOK/bGf6i6ypPhdjqQG6ssY4vYrBNVHmkNcvM2Qd2xmd33FU1M05mv6suQGC5vi9kgSpRQGF1dUnHaggG7D22Craw/f8HU3ughI4AOGPHHLnF+ErmNiGTtmEnp+l48r2cx39fRa2A9e/iGElasTH2gDp9lAvhY49C29Gt6LmtbQvrlOCw1leCO7Lrp4=
