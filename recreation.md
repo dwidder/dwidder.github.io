@@ -18,6 +18,6 @@ Often an activity I do when I want to think through things or to ease stress, I 
 
 ### Rowing
 
-I am proud to be on the University of Oregon [Rowing Team](https://www.uorowing.org). We wake up at 4:30 am six days a week, and watch the sun rise over the mountain peaks as our heart rates rise.
+I am an alumnus of the University of Oregon [Rowing Team](https://www.uorowing.org). I sincerely miss waking up at 4:30 am six days a week to watch the sun and our heart rates rise over the mountain peaks.
 
 ![Oregon's Lightweight 4+ at Nationals](/images/rowing.jpg)

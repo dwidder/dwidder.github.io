@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I conduct research at the intersection of Software Engineering, Human Computer Interaction and Computing Education. I want to understand how people's education and lived experience influences the way they write code, and I want to apply these insights to improve the state of Computer Science education. Much of my research has been conducted in collaboration with Professor [Stephen Fickas](https://www.cs.uoregon.edu/People/Faculty/Stephen_Fickas.php) at UO.
+I conduct research at the intersection of Software Engineering and Human Computer Interaction and Computing Education. I want to help software engineers choose the most appropriate tools for their job, by understanding which tools work well in what use cases. 
 
 You can download my current one page resume detailing my research and other experience [here](/files/Widder_Resume.pdf). Once I have a non trivial number of publications, I'll convert this to a fancy CV.
 
