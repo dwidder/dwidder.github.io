@@ -11,6 +11,7 @@ I do [research](/research) at the intersection of Software Engineering and Human
 
 I am always excited to meet new people and hear about new ideas and opportunities. Feel free to [reach out!](/contact)
 
+<div class="feeds clearfix">
 <div class="feed-container">
       <a class="twitter-timeline" href="https://twitter.com/davidthewid" data-tweet-limit="2">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
       <!-- <a class="twitter-timeline"
