@@ -16,8 +16,8 @@ Skype: <a href="skype:david.widder?add">david.widder</a>
 
 Snail mail (not currently accessible due to COVID):
 
-> David Gray Widder
-> Carnegie Mellon University
-> ISR - TCS Hall 430
-> 4665 Forbes Avenue
-> Pittsburgh, PA 15213
+> David Gray Widder  
+> Carnegie Mellon University  
+> ISR - TCS Hall 430  
+> 4665 Forbes Avenue  
+> Pittsburgh, PA 15213  
