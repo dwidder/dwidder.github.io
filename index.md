@@ -5,7 +5,7 @@ title: Welcome!
 
 I am a Software Engineering PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am advised by [Laura Dabbish](http://www.lauradabbish.com), [Jim Herbsleb](https://www.isri.cmu.edu/people/core-faculty/herbsleb-james.html), and [Bogdan Vasilescu](https://bvasiles.github.io) and a proud member of the [CoEx](http://coexlab.com) and [STRUDEL](https://cmustrudel.github.io) teams. 
 
-I do research at the intersection of Human Computer Interaction and Software Engineering, on topics such as ethics and trust in Artificial Intelligence, diversity and inclusion in open source communities, and tool choice in dev ops environments. You can download my [academic CV](files/Widder-CV.pdf), and also view my [Google Scholar profile](https://scholar.google.com/citations?user=OG_qAA4AAAAJ&hl=en).
+I do research at the intersection of Human Computer Interaction and Software Engineering, on topics such as ethics and trust in Artificial Intelligence, diversity and inclusion in open source communities, and tool choice in dev ops environments. You can download my [academic CV](files/Widder_CV.pdf), and also view my [Google Scholar profile](https://scholar.google.com/citations?user=OG_qAA4AAAAJ&hl=en).
 
 I earned my BS in 2017 from the [Robert D. Clark Honors College](http://honors.uoregon.edu) at the University of Oregon in Eugene, Oregon where I studied Computer and Information Science and Liberal Arts. I wrote my Undergraduate Thesis on the programming practices of scientific research programmers, and was advised by [Professor Stephen Fickas](http://ix.cs.uoregon.edu/~fickas/new_home/).
 
