@@ -214,6 +214,8 @@ img {
   font-size: 38px;
   letter-spacing: 1.2px;
   line-height: 1.4;
+	@include mobile {
+		font-family: arial-bold-italic;
 }
 
 .site-description {
