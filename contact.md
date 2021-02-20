@@ -6,8 +6,6 @@ permalink: /contact/
 
 Feel free to contact me with questions, research ideas, job offers, or jokes!
 
-Office: Wean 5119
-
 Email: [dwidder@cmu.edu](mailto:dwidder@cmu.edu)
 
 Call or text: [(541) 870-5750](tel:541-870-5750)
