@@ -12,7 +12,7 @@ I earned my BS in 2017 from the [Robert D. Clark Honors College](http://honors.u
 
 I was born in [Tillamook, Oregon](https://en.wikipedia.org/wiki/Tillamook,_Oregon) but grew up in Berlin, Germany and Singapore. I am a conceptual realist [painter](https://www.instagram.com/davidthewid/), I [run](https://www.strava.com/athletes/25775072), and advocate for student interests on the [Dean's PhD Student Advisory Committee](https://scs-phd-deans-committee.github.io).
 
-Feel free to [reach out!](/contact), or follow my Twitter:
+Feel free to [reach out](/contact), or follow my Twitter:
 
 <div class="feeds clearfix">
   <div class="feed-container">
