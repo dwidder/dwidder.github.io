@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Welcome!
 ---
 
 I am a Software Engineering PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am advised by [Laura Dabbish](http://www.lauradabbish.com) and [Jim Herbsleb](https://www.isri.cmu.edu/people/core-faculty/herbsleb-james.html).
