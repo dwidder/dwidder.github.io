@@ -2,7 +2,7 @@
 layout: page
 ---
 
-David Gray Widder (he/him) is a Doctoral Student advised by [Laura Dabbish](http://www.lauradabbish.com) and [Jim Herbsleb](https://www.isri.cmu.edu/people/core-faculty/herbsleb-james.html) in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, and a intern conducting AI Ethics research at Intel Labs. He has conducted research on AI Trust at NASA's Jet Propulsion Laboratory and on AI Ethics at Microsoft Research. He was Born in Tillamook, Oregon and raised in Berlin and Singapore. 
+David Gray Widder (he/him) is a Doctoral Student advised by [Laura Dabbish](http://www.lauradabbish.com) and [Jim Herbsleb](https://www.isri.cmu.edu/people/core-faculty/herbsleb-james.html) in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, and a research intern at Intel Labs studying AI Ethics. He has also conducted research on AI Ethics at Microsoft Research, and on AI Trust at NASA's Jet Propulsion Laboratory. He was Born in Tillamook, Oregon and raised in Berlin and Singapore. 
 He maintains a [conceptual-realist artistic practice](https://www.instagram.com/davidthewid/), advocates against police terror and pervasive surveillance, and enjoys [distance running](https://www.strava.com/athletes/25775072).
 
 <!-- I am a Software Engineering PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am . -->
