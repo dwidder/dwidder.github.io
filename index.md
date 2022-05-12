@@ -2,7 +2,7 @@
 layout: page
 ---
 
-David Gray Widder (he/him) is a Doctoral Student in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, and a research intern studying AI Ethics at Intel Labs. He has also conducted research on AI Ethics at Microsoft Research, and on AI Trust at NASA's Jet Propulsion Laboratory. He was Born in Tillamook, Oregon and raised in Berlin and Singapore. 
+David Gray Widder (he/him) is a Doctoral Student researching AI Ethics in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, and previously at Intel Labs, Microsoft Research, and NASA's Jet Propulsion Laboratory. He was Born in Tillamook, Oregon and raised in Berlin and Singapore. 
 He maintains a [conceptual-realist artistic practice](https://www.instagram.com/davidthewid/), advocates against police terror and pervasive surveillance, and enjoys [distance running](https://www.strava.com/athletes/25775072).
 
 <!-- advised by [Laura Dabbish](http://www.lauradabbish.com) and [Jim Herbsleb](https://www.isri.cmu.edu/people/core-faculty/herbsleb-james.html) -->
