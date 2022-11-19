@@ -16,7 +16,9 @@ He maintains a [conceptual-realist artistic practice](https://www.instagram.com/
 
 <!-- I was born in [Tillamook, Oregon](https://en.wikipedia.org/wiki/Tillamook,_Oregon) but grew up in Berlin, Germany and Singapore. I am a conceptual realist [painter](https://www.instagram.com/davidthewid/), I [run](), and advocate for student interests on the [Dean's PhD Student Advisory Committee](https://scs-phd-deans-committee.github.io). -->
 
-Please feel free to [contact](/contact) David, or follow him on [Twitter](https://twitter.com/davidthewid):
+
+
+Please feel free to [contact](/contact) David, or follow him on <a rel="me" href="https://hci.social/@davidthewid">Mastodon</a> or [Twitter](https://twitter.com/davidthewid):
 
 <div class="feeds clearfix">
   <div class="feed-container">
