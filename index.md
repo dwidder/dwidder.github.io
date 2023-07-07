@@ -19,31 +19,3 @@ He maintains a [conceptual-realist artistic practice](https://www.instagram.com/
 
 
 Please feel free to [contact](/contact) David, or follow him on <a rel="me" href="https://hci.social/@davidthewid">Mastodon</a> or [Twitter](https://twitter.com/davidthewid).
-<!---
-<div class="feeds clearfix">
-  <div class="feed-container">
-      <a class="twitter-timeline" href="https://twitter.com/davidthewid" data-tweet-limit="2">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-      <!-- <a class="twitter-timeline"
-        href="https://twitter.com/DavidTheWid">
-      Tweets by @DavidTheWid
-      </a> -->
-    </div>  
-</div>
-
-<script>window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-
-  return t;
-}(document, "script", "twitter-wjs"));</script>
---->
