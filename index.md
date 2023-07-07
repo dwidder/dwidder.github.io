@@ -19,7 +19,7 @@ He maintains a [conceptual-realist artistic practice](https://www.instagram.com/
 
 
 Please feel free to [contact](/contact) David, or follow him on <a rel="me" href="https://hci.social/@davidthewid">Mastodon</a> or [Twitter](https://twitter.com/davidthewid).
- /* 
+<!---
 <div class="feeds clearfix">
   <div class="feed-container">
       <a class="twitter-timeline" href="https://twitter.com/davidthewid" data-tweet-limit="2">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -46,4 +46,4 @@ Please feel free to [contact](/contact) David, or follow him on <a rel="me" href
 
   return t;
 }(document, "script", "twitter-wjs"));</script>
-*/
+--->
