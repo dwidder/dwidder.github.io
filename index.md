@@ -2,7 +2,7 @@
 layout: page
 ---
 
-David Gray Widder (he/him) studies how people creating "Artificial Intelligence" systems think about the downstream harms their systems make possible. He earned his PhD from the the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, and is an incoming Postdoctoral Fellow at the [Digital Life Initiative](https://www.dli.tech.cornell.edu) at Cornell Tech. He has previously conducted research at Intel Labs, Microsoft Research, and NASA's Jet Propulsion Laboratory. He was born in Tillamook, Oregon and raised in Berlin and Singapore. 
+David Gray Widder (he/him) studies how people creating "Artificial Intelligence" systems think about the downstream harms their systems make possible. He earned his PhD from the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, and is an incoming Postdoctoral Fellow at the [Digital Life Initiative](https://www.dli.tech.cornell.edu) at Cornell Tech. He has previously conducted research at Intel Labs, Microsoft Research, and NASA's Jet Propulsion Laboratory. He was born in Tillamook, Oregon and raised in Berlin and Singapore. 
 He maintains a [conceptual-realist artistic practice](https://www.instagram.com/davidthewid/), advocates against police terror and pervasive surveillance, and enjoys [distance running](https://www.strava.com/athletes/25775072).
 
 <!-- advised by [Laura Dabbish](http://www.lauradabbish.com) and [Jim Herbsleb](https://www.isri.cmu.edu/people/core-faculty/herbsleb-james.html) -->
