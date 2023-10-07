@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: [dwidder@cmu.edu](mailto:dwidder@cmu.edu)
+Email: [david.g.widder@gmail.com](david.g.widder@gmail.com)
 
 <!-- Call or text: [(541) 870-5750](tel:541-870-5750) -->
 
