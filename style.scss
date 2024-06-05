@@ -214,6 +214,9 @@ img {
   font-size: 38px;
   letter-spacing: 1.2px;
   line-height: 1.4;
+	@include mobile {
+		 // text-align: right;
+  }
 }
 
 .site-description {
