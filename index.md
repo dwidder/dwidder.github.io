@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h3> <p style="text-align: center;">
-✨I'm on the job market, seeking a tenure track role in2
+✨I'm on the job market, seeking a tenure track role in
    Information Science, Computer Science, or a related field!✨
  </p> </h3>
 
